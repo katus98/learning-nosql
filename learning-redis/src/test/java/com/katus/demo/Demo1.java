@@ -4,7 +4,7 @@ import org.junit.Test;
 import redis.clients.jedis.Jedis;
 
 /**
- * Redis简单操作
+ * Jedis简单操作
  *
  * @author SUN Katus
  * @version 1.0, 2021-07-30
